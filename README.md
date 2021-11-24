@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rohaan-sahu
 - 👀 I’m interested in Data science and Programming
 - 🌱 I’m currently learning Python (Beginner level)
-- 💞️ I’m looking to collaborate and to learn coding.
+- 💞️ I’m looking forward to collaborating and learning to really code.
 - 📫 
 
 <!---
