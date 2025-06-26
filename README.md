@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohaan-sahu
 - My repo has projects built with Express, React, Node.js and MongoDB.
-- I am exploring avenues of AI , Cloud services , Containerization etc.
+- I am exploring avenues of AI , Web3 (Solana in particular)
   
 🚀 Always learning, always coding! Check out my projects and let's collaborate.
 <!---
