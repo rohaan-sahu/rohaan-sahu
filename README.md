@@ -1,4 +1,7 @@
 # Rohaan Sahu
+----
+### Intro
+
 Fullstack dev building clean, structured products on Solana & React Native.
 Here's what I've shipped:
 
@@ -8,13 +11,17 @@ Here's what I've shipped:
 
 ---
 
-🚧 **Currently building:**
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=rohaan-sahu&theme=dark)
+
+----
+
+### 🚧 **Currently building:**
 - ⚡ [MonoPay-for-merchants](https://github.com/MonoPay-Finance/monopay-for-merchants) - a POS solution leveraging Solana and MonoPay & Dodo payments ecosystem
 - 🦀 Exploring Rust + Solana programs - Digging into Quasars
 
 ---
 
-**Stack**  
+### Stack
 * Languages   → TypeScript, Rust  
 * Frontend    → React Native, Expo, React, Next , Bun  
 * Blockchain  → Solana  
@@ -22,9 +29,14 @@ Here's what I've shipped:
 
 ---
 
-**Connect**
+![Rohaan's Stats](https://github-readme-stats.vercel.app/api?username=rohaan-sahu&show_icons=true&theme=dark)
+
+---
+
+### Connect
 - Portfolio   → [rhnsh-portfolio](https://rhnsh-portfolio-rrci.vercel.app/)
 - LinkedIn    → [Rohaan Sahu](https://www.linkedin.com/in/rohaan-sahu-80a743169/)
 - X           → [@RhnSh5465](https://x.com/RhnSh5465)
 - Telegram    → [@rohaansahu](t.me/rohaansahu)
 - Email       → [rbbsr8292@gmail.com](mailto:rbbsr8292@gmail.com)
+---
