@@ -28,8 +28,8 @@ Here's what I've shipped:
 * Backend     → Supabase, Firebase, Node.js, Hono  
 
 ---
-
-![Rohaan's Stats](https://github-readme-stats.vercel.app/api?username=rohaan-sahu&show_icons=true&theme=dark)
+![Rohaan's Stats](https://github-readme-stats.vercel.app/api?username=rohaan-sahu&show_icons=true&theme=dark) 
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohaan-sahu&layout=compact&theme=dark) 
 
 ---
 
